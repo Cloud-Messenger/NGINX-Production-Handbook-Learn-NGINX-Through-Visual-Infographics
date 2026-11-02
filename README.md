@@ -3,6 +3,7 @@
 ☁️ **Learn. Build. Deploy. Troubleshoot. Grow.**
 
 *What if you could learn NGINX from first install to zero-downtime production deployments, one illustrated page at a time?*
+https://cloud-messenger.github.io/nginx-server-visualization/
 
 Welcome to the **NGINX Production Handbook**, a 10-page visual guide that explains how NGINX works in real production infrastructure. Every page is a Cloud Messenger™ infographic with diagrams, working commands, config snippets and troubleshooting playbooks you can use straight away.
 
